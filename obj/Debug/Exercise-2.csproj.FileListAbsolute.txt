@@ -1,0 +1,134 @@
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\Exercise-2.exe.config
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\Exercise-2.exe
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\Exercise-2.pdb
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\obj\Debug\MainWindow.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\obj\Debug\App.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\obj\Debug\Exercise-2_MarkupCompile.cache
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\obj\Debug\Exercise-2_MarkupCompile.lref
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\obj\Debug\MainWindow.baml
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\obj\Debug\Exercise-2.g.resources
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\obj\Debug\Exercise_2.Properties.Resources.resources
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\obj\Debug\Exercise-2.csproj.GenerateResource.cache
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\obj\Debug\Exercise-2.exe
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\obj\Debug\Exercise-2.pdb
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\queen_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\obj\Debug\Exercise-2_Content.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\king_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\bishop_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\bishop_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\knight_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\knight_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\pawn_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\pawn_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\queen_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\rook_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\rook_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Exercise-2\bin\Debug\king_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Exercise-2.exe.config
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Exercise-2.exe
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Exercise-2.pdb
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Exercise-2_Content.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Exercise-2_MarkupCompile.cache
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Exercise-2_MarkupCompile.lref
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Exercise-2.g.resources
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Exercise_2.Properties.Resources.resources
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Exercise-2.csproj.GenerateResource.cache
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Exercise-2.exe
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Exercise-2.pdb
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Figures\bishop_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Figures\bishop_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Figures\king_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Figures\knight_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Figures\knight_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Figures\pawn_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Figures\pawn_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Figures\queen_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Figures\rook_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Figures\rook_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Figures\king_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Figures\queen_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\bin\Debug\Figures\empty.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Exercise-2.csprojAssemblyReference.cache
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Exercise-2.csproj.CoreCompileInputs.cache
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Views\CapturedPiecesControl.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Views\ChessGridCell.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Views\MainWindow.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Views\WinnerOverlay.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Views\CapturedPiecesControl.baml
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Views\ChessGridCell.baml
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Views\MainWindow.baml
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\Views\WinnerOverlay.baml
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture4\Chess-Game\obj\Debug\App.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Figures\bishop_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Figures\bishop_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Figures\empty.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Figures\king_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Figures\knight_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Figures\knight_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Figures\pawn_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Figures\pawn_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Figures\queen_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Figures\rook_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Figures\rook_white.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Figures\king_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Figures\queen_black.png
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Exercise-2.exe.config
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Exercise-2.exe
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\bin\Debug\Exercise-2.pdb
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Exercise-2.csprojAssemblyReference.cache
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Views\CapturedPiecesControl.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Views\ChessGridCell.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Views\MainWindow.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Views\WinnerOverlay.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\App.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Exercise-2_Content.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Exercise-2_MarkupCompile.cache
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Exercise-2_MarkupCompile.lref
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Views\CapturedPiecesControl.baml
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Views\ChessGridCell.baml
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Views\MainWindow.baml
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Views\WinnerOverlay.baml
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Exercise-2.g.resources
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Exercise_2.Properties.Resources.resources
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Exercise-2.csproj.GenerateResource.cache
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Exercise-2.csproj.CoreCompileInputs.cache
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Exercise-2.exe
+C:\Work\Lectures\.net Softwareentwicklung\In Class Exercises\Lecture7\Solution\Chess-Game\obj\Debug\Exercise-2.pdb
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Figures\bishop_black.png
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Figures\bishop_white.png
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Figures\empty.png
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Figures\king_white.png
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Figures\knight_black.png
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Figures\knight_white.png
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Figures\pawn_black.png
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Figures\pawn_white.png
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Figures\queen_white.png
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Figures\rook_black.png
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Figures\rook_white.png
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Figures\king_black.png
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Figures\queen_black.png
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Exercise-2.exe.config
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Exercise-2.exe
+C:\Users\anask\Desktop\8\Chess-Game\bin\Debug\Exercise-2.pdb
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Exercise-2.csprojAssemblyReference.cache
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Views\CapturedPiecesControl.g.cs
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Views\ChessGridCell.g.cs
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Views\MainWindow.g.cs
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Views\WinnerOverlay.g.cs
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\App.g.cs
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Exercise-2_Content.g.cs
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Exercise-2_MarkupCompile.cache
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Exercise-2_MarkupCompile.lref
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Views\CapturedPiecesControl.baml
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Views\ChessGridCell.baml
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Views\MainWindow.baml
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Views\WinnerOverlay.baml
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Exercise-2.g.resources
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Exercise_2.Properties.Resources.resources
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Exercise-2.csproj.GenerateResource.cache
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Exercise-2.csproj.CoreCompileInputs.cache
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Exercise-2.exe
+C:\Users\anask\Desktop\8\Chess-Game\obj\Debug\Exercise-2.pdb
